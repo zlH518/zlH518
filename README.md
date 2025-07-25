@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![zlH518' Github Stats](https://github-readme-stats.vercel.app/api?username=zlH518&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zlH518&show_icons=true&locale=en&count_private=true" alt="zlH518" />
